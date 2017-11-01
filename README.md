@@ -30,9 +30,10 @@ wan using plain text or markdown formatting. See the [markdown cheatsheet](https
 
 ### Next steps (do on your own time)
 * setup local development environment:
-  1. gem install github-pages
-  2. Jekyll build
-  3. Jekyll serve
+>>> gem install github-pages
+jekyll build
+jekyll serve
+
 * Discus integration for commenting system. 
 * Mailchimp integration for mailing list. 
 
