@@ -1,6 +1,6 @@
 
 ### Creating a new site
-**1)** Fork this repo.  
+**1)** Fork this repo (top right corner).  
 **2)** Rename the forked repo to your-username.github.io (see settings tab in the repo) 
 **3)** In the web browser: refresh your-username-github.io until it shows up.   
 
