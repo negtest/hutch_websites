@@ -16,7 +16,7 @@ Make high level changes using the heavily commented file: __\_config.yml__
 3. Add the header:   
 \---  
 layout: post  
-\title: Test Post Title! 
+title: Test Post Title! 
 \---  
 4. Add whatever content you want. 
 5. Git add, commit, push.
