@@ -1,12 +1,12 @@
 
-### Creating a new site
+## Creating a new site
 **1.** Fork this repo (top right corner).  
 **2.** Rename the forked repo to your-username.github.io (see settings tab in the repo) 
 **3.** In the web browser: refresh your-username-github.io until it shows up.   
 
 
 
-### Configuring the new site
+## Configuring the new site
 #### General
 Make high level changes using the heavily commented file: __\_config.yml__
 
@@ -28,7 +28,7 @@ wan using plain text or markdown formatting. See the [markdown cheatsheet](https
 3. git add test.md, commit, and push to master. 
 
 
-### Next steps (do on your own time)
+## Next steps (do on your own time)
 * setup local development environment:
 > $ gem install github-pages  
 $ jekyll build  
