@@ -21,14 +21,26 @@ layout: post
 4. Add whatever content you want. 
 5. Git add, commit, push.
 
-#### Adding a new page
+#### Adding new pages
 **1.** Make a copy of the __about.md__ file called __test.md__ in the top level of the repo. This will become the new page. (can also be an html file)  
 **2.** Open __about.md__ and change the title and permalink to __Test__ and __test__, respectively. Delete the existing content and write whatever you 
 wan using plain text or markdown formatting. See the [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help.  
 **3.** git add test.md, commit, and push to master. 
 
-   
 
+### Next steps (do on your own time)
+* setup local development environment:
+  1. gem install github-pages
+⋅⋅2. Jekyll build
+⋅⋅3. Jekyll serve
+* Discus integration for commenting system. 
+* Mailchimp integration for mailing list. 
+
+
+### References
+1. [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+2. [Barry Clark's "Now" theme](https://github.com/barryclark/jekyll-now) 
+3. [Other themes](http://jekyllthemes.org/)
 
 
 # TODO:
