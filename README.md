@@ -28,7 +28,7 @@ wan using plain text or markdown formatting. See the [markdown cheatsheet](https
 3. git add test.md, commit, and push to master. 
 
 
-## Next steps (do on your own time)
+## Next steps (on your own time)
 * setup local development environment:
 > $ gem install github-pages  
 $ jekyll build  
@@ -44,7 +44,4 @@ $ jekyll serve
 3. [Other themes](http://jekyllthemes.org/)
 
 
-# TODO:
-* Add resources/links.
-* Add basic overview.  
-* Add disqus 
+
