@@ -16,7 +16,7 @@
 
 #### Adding a new page
 **1)** Create a file called test.md in the top level of the repo. (can also be an html file)  
-**2)** add \<a href="/test"\>Test\</a> to the \<nav> block in \_layouts/default.html  
+**2)** add __\<a href="/test"\>Test\</a>__ to the __\<nav>__ block in __\_layouts/default.html__  
 **3)** 
 
    
